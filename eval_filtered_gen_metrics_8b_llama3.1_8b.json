@@ -1,0 +1,292 @@
+[
+  {
+    "id": "A1",
+    "type": "answerable",
+    "persona": "500",
+    "question": "How many hours can I work per fortnight during my course?",
+    "answer": "According to the rules, you can work a maximum of 48 hours per fortnight during your course, when it is in session.",
+    "sources": [
+      "Student visa (subclass 500).txt",
+      "Hiring Student Visa Holders_ Condition 8104 & 8105 Guide.pdf"
+    ],
+    "similarity": 0.745,
+    "abstained": false,
+    "leaked": false,
+    "context": "on a Student visa in Australia is a maximum of 48 hours per fortnight. If you fail to comply with this visa condition, you may have your student visa cancelled. This limit on work hours applies to all of the following times: during study terms and semesters, including when exams are being held before your course starts (unless you hold a different visa that permits you to work prior) when you take another course that will count towards your main course during a term break \u2013 unless this is a mandatory\n\nrequirement as listed under CRICOS for your main course. At other times, you can work unlimited hours on a Student visa, as follows: during scheduled course breaks if your course was deferred or suspended in line with Standard 9 of the National Code of Practice for Providers of Education and Training to Overseas Students if you hold a valid visa and have completed your course as listed on your Confirmation of Enrolment if your enrolment has been cancelled due to the default of your education provider\n\nno chasing paperwork or relying on spreadsheets. By automating management of these conditions and exceptions, you can confidently schedule student workers when they\u2019re available, unlocking more rosterable hours without putting your Primary student visa holders can only work up to 48 hours per fortnight while their course is in session (a 14-day period starting on a Monday). \u2022 They can work unlimited hours during official course breaks, or if their course is completed, cancelled, or deferred. \u2022 Students",
+    "correct": true,
+    "source_hit": true
+  },
+  {
+    "id": "A2",
+    "type": "answerable",
+    "persona": "500",
+    "question": "Can I work unlimited hours during scheduled course breaks?",
+    "answer": "Yes, you can work unlimited hours during scheduled course breaks, as stated in the context. This applies if your course was deferred or suspended in line with Standard 9 of the National Code of Practice for Providers of Education and Training to Overseas Students.",
+    "sources": [
+      "Student visa (subclass 500).txt",
+      "Hiring Student Visa Holders_ Condition 8104 & 8105 Guide.pdf"
+    ],
+    "similarity": 0.769,
+    "abstained": false,
+    "leaked": false,
+    "context": "requirement as listed under CRICOS for your main course. At other times, you can work unlimited hours on a Student visa, as follows: during scheduled course breaks if your course was deferred or suspended in line with Standard 9 of the National Code of Practice for Providers of Education and Training to Overseas Students if you hold a valid visa and have completed your course as listed on your Confirmation of Enrolment if your enrolment has been cancelled due to the default of your education provider\n\nno chasing paperwork or relying on spreadsheets. By automating management of these conditions and exceptions, you can confidently schedule student workers when they\u2019re available, unlocking more rosterable hours without putting your Primary student visa holders can only work up to 48 hours per fortnight while their course is in session (a 14-day period starting on a Monday). \u2022 They can work unlimited hours during official course breaks, or if their course is completed, cancelled, or deferred. \u2022 Students\n\nin a master\u2019s by research or PhD can work unlimited hours at any time. \u2022 They can not start work at all until their enrolled course has officially commenced. \u2022 The 48-hour cap applies across all jobs, not just one employer. \u2022 business at risk. That means fewer compliance gaps, and better use of the trained workforce you already have. Hiring a Dependent Family Member of a Student Visa Holder (Condition 8104) Dependent family members of student visa holders, known as secondary visa holders, also have",
+    "correct": true,
+    "source_hit": true
+  },
+  {
+    "id": "A3",
+    "type": "answerable",
+    "persona": "500",
+    "question": "Is there a work hour limit for Masters by Research or Doctoral students?",
+    "answer": "According to the context, students in a Masters by Research or Doctoral degree program may work more than 48 hours per fortnight at any time during their studies, after the course has started.",
+    "sources": [
+      "Hiring Student Visa Holders_ Condition 8104 & 8105 Guide.pdf",
+      "Student visa (subclass 500).txt"
+    ],
+    "similarity": 0.768,
+    "abstained": false,
+    "leaked": false,
+    "context": "in a master\u2019s by research or PhD can work unlimited hours at any time. \u2022 They can not start work at all until their enrolled course has officially commenced. \u2022 The 48-hour cap applies across all jobs, not just one employer. \u2022 business at risk. That means fewer compliance gaps, and better use of the trained workforce you already have. Hiring a Dependent Family Member of a Student Visa Holder (Condition 8104) Dependent family members of student visa holders, known as secondary visa holders, also have\n\nand until you get a new enrolment and start that course. Students in a Masters by Research or Doctoral degree program may work more than 48 hours per fortnight at any time during their studies, after the course has started. Check the Visa Entitlement Verification Online system (VEVO) to see the work conditions that apply to you. International students are protected by Australia's workplace laws. Find out more on our Working in Australia page. \u2018Course packaging\u2019 on a Student visa (subclass 500) You\n\non a Student visa in Australia is a maximum of 48 hours per fortnight. If you fail to comply with this visa condition, you may have your student visa cancelled. This limit on work hours applies to all of the following times: during study terms and semesters, including when exams are being held before your course starts (unless you hold a different visa that permits you to work prior) when you take another course that will count towards your main course during a term break \u2013 unless this is a mandatory",
+    "correct": false,
+    "source_hit": true
+  },
+  {
+    "id": "A4",
+    "type": "answerable",
+    "persona": "500",
+    "question": "What happens if I exceed my work hour limit?",
+    "answer": "If you exceed your work hour limit, you may have your student visa cancelled.",
+    "sources": [
+      "Student visa (subclass 500).txt",
+      "Hiring Student Visa Holders_ Condition 8104 & 8105 Guide.pdf"
+    ],
+    "similarity": 0.661,
+    "abstained": false,
+    "leaked": false,
+    "context": "on a Student visa in Australia is a maximum of 48 hours per fortnight. If you fail to comply with this visa condition, you may have your student visa cancelled. This limit on work hours applies to all of the following times: during study terms and semesters, including when exams are being held before your course starts (unless you hold a different visa that permits you to work prior) when you take another course that will count towards your main course during a term break \u2013 unless this is a mandatory\n\nin a master\u2019s by research or PhD can work unlimited hours at any time. \u2022 They can not start work at all until their enrolled course has officially commenced. \u2022 The 48-hour cap applies across all jobs, not just one employer. \u2022 business at risk. That means fewer compliance gaps, and better use of the trained workforce you already have. Hiring a Dependent Family Member of a Student Visa Holder (Condition 8104) Dependent family members of student visa holders, known as secondary visa holders, also have\n\nrequirement as listed under CRICOS for your main course. At other times, you can work unlimited hours on a Student visa, as follows: during scheduled course breaks if your course was deferred or suspended in line with Standard 9 of the National Code of Practice for Providers of Education and Training to Overseas Students if you hold a valid visa and have completed your course as listed on your Confirmation of Enrolment if your enrolment has been cancelled due to the default of your education provider",
+    "correct": true,
+    "source_hit": true
+  },
+  {
+    "id": "A5",
+    "type": "answerable",
+    "persona": "500",
+    "question": "Do I need OSHC for my whole stay in Australia?",
+    "answer": "I don't know. The context does not mention the duration of stay in Australia, and it does not explicitly state that OSHC is required for the whole stay.",
+    "sources": [
+      "OSHC  adequate health insurance requirement.txt"
+    ],
+    "similarity": 0.741,
+    "abstained": true,
+    "leaked": false,
+    "context": "or private health care systems in Australia. For routine medical treatment in Australia, out-of-hospital treatment from a general practitioner is normally the most cost-effective solution. While most commonly, Overseas Visitor Health Cover (OVHC) products help to provide an appropriate level of private health insurance cover, consumers are encouraged to take note of what is and is not covered under an OVHC product as not all products offer a comprehensive level of cover to meet a person\u2019s individual\n\na RHCA with and you need medical care, you will have to pay the full cost. If you have travel insurance, the insurance company may pay some of the cost. Evidence of adequate health insurance Some Australian visas require you to provide evidence of adequate arrangements for health insurance while in Australia before we determine whether or not a visa is granted. We might ask you to provide a copy of a current private health insurance policy held with an Australian registered private health insurer\n\nthey are fully covered for any unplanned medical and or hospital care they may need while in Australia. When in Australia and health care assistance is required, and a person is not covered by an appropriate level of private health insurance cover, as a non-resident and non-citizen of Australia, a person will be considered a private patient and will be required to pay any costs themselves at the time of treatment. This will apply whether a person seeks health care treatment in either the public and",
+    "correct": false,
+    "source_hit": true
+  },
+  {
+    "id": "A6",
+    "type": "answerable",
+    "persona": "500",
+    "question": "How can I check my own visa conditions?",
+    "answer": "You can use VEVO (Visa Entitlement Verification Online) to check your own visa conditions. VEVO allows visa holders to check their visa details and conditions online.",
+    "sources": [
+      "VEVO checking your own visa conditions.txt"
+    ],
+    "similarity": 0.723,
+    "abstained": false,
+    "leaked": false,
+    "context": "and then use VEVO to see the visa conditions of visa holders who have given you permission. Learn how to use VEVO for organisations.\n\n\u200b\u200b\u200b\u200b\u200b\u200b\u200bCheck conditions online (VEVO) Visa Entitlement Verification Online (VEVO) allows visa holders, employers, education providers and other organisations to check visa conditions. VEVO can only provide current visa information about visa holders whose details are available in our systems. You may not have a searchable record if you migrated to Australia before 1990 and have not travelled out of Australia. If this applies to you, you may need to request an electronic record of your permanent visa\n\nEveryone working in Australia has basic rights and protections in the workplace, including minimum pay and conditions. Learn more about workplace rights in Australia. Visa holders You can use VEVO to check your visa details and conditions. Use VEVO to send proof of your visa conditions to others, for example, employers, landlords or the government of a country you would like to visit. Learn how to use VEVO Organisations Registered organisations can check someone's visa details. Register for an ImmiAccount",
+    "correct": true,
+    "source_hit": true
+  },
+  {
+    "id": "A7",
+    "type": "answerable",
+    "persona": "500",
+    "question": "How many days do I have to notify my provider of my address after arriving?",
+    "answer": "You have 7 days to notify your education or training provider of your residential address after arriving in Australia.",
+    "sources": [
+      "I Standard 8.pdf",
+      "Student visa (subclass 500).txt"
+    ],
+    "similarity": 0.659,
+    "abstained": false,
+    "leaked": false,
+    "context": "a written notice of its intention to report. The registered provider also needs to advise the overseas student of their right to access the registered provider\u2019s internal complaints and appeals process within 20 working days. The registered provider must maintain the overseas student\u2019s enrolment by only reporting a breach of course progress or attendance in Provider Registration and International Student Management System (PRISMS) if: \u2022 the internal and external complaints processes have been completed\n\nmeeting attendance requirements before the overseas student\u2019s attendance drops below 80 per cent. Registered providers should keep records of all contact and counselling made with overseas students who have been absent for more than five consecutive days or where the overseas student is at risk of not attending at least 80 per cent of the course contact hours. The intent of contacting these overseas students is to find out why they have been absent and to see what support the registered provider may\n\nare available on the Department of Home Affairs website. You can also get tips on how to improve your processing time. *Prices are correct at July 2026. Student visa conditions Your Student visa comes with some important conditions. These include that you must: notify your education or training provider of your residential address within 7 days of arriving in Australia meet your course requirements, remain enrolled and maintain satisfactory attendance and course progression \u2013 tell your provider if",
+    "correct": true,
+    "source_hit": true
+  },
+  {
+    "id": "B1",
+    "type": "answerable",
+    "persona": "485",
+    "question": "What is the age limit to apply for the Temporary Graduate visa?",
+    "answer": "You must be 35 years of age or under when you apply. You can be under 50 years of age when you apply if you meet certain conditions, such as using a Masters (research) or Doctoral Degree (PhD) to meet the Temporary Graduate visa study requirement.",
+    "sources": [
+      "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream6.pdf",
+      "Temporary Graduate visa (subclass 485) Second Post-Higher Education Work stream11.pdf",
+      "Temporary Graduate visa (subclass 485) Post-Vocational Education Work stream1.pdf"
+    ],
+    "similarity": 0.86,
+    "abstained": false,
+    "leaked": false,
+    "context": "This visa is for international students who have recently graduated with a degree from an Australian institution. It allows you to live, work and study in Australia temporarily. Temporary Graduate visa (subclass 485) Post-Higher Education Work stream Eligibility Be this age Have this visa You must be 35 years of age or under when you apply. You can be under 50 years of age when you apply if you: are using a Masters (research) or Doctoral Degree (PhD) to meet the Temporary Graduate visa study requirement\n\nThis visa is for Temporary Graduates holding a Post-Higher Education Work, Post-Study Work or Replacement visa with a degree from an Australian institution located in a regional area. It allows you to live, work and study in Australia temporarily. Temporary Graduate visa (subclass 485) Second Post-Higher Education Work stream Eligibility Be this age Have this visa You must be 35 years of age or under when you apply. You can be under 50 years of age when you apply if you: used a Masters (research)\n\nThis visa is for international students who have recently graduated with an associate degree, diploma or trade qualification relevant to an occupation Australia needs. It allows you to live, study and work in Australia temporarily. Temporary Graduate visa (subclass 485) Post-Vocational Education Work stream Eligibility Be this age Have this visa Meet the Temporary Graduate visa study requirement You must be 35 years of age or under when you apply. You can be under 50 years of age when you apply if",
+    "correct": true,
+    "source_hit": true
+  },
+  {
+    "id": "B2",
+    "type": "answerable",
+    "persona": "485",
+    "question": "What streams are available under the subclass 485 visa?",
+    "answer": "The Temporary Graduate (Subclass 485) visa has two streams: the Graduate Work stream and the Second Post-Higher Education Work stream.",
+    "sources": [
+      "Changes to the Temporary Graduate (Subclass 485) visa _ Study Australia.pdf",
+      "Temporary Graduate visa (subclass 485) Second Post-Higher Education Work stream11.pdf",
+      "Temporary Graduate visa (subclass 485) Second Post-Higher Education Work stream13.pdf"
+    ],
+    "similarity": 0.679,
+    "abstained": false,
+    "leaked": false,
+    "context": "Changes to the Temporary Graduate (Subclass 485) visa Temporary Graduate visa (TGV) application charges have increased from 1 March 2026. \ue31b Agent News\ue5cc \ue8b6 \ue894\ue5cf \ue5d2 About the Temporary Graduate visa The Temporary Graduate (Subclass 485) visa (TGV) allows international students who have recently graduated from an Australian education provider to live, work and study in Australia temporarily after finishing their studies. The program also provides eligible graduates with the opportunity to apply for a subsequent\n\nGraduate Work stream) Second Post-Higher Education Work stream (previously the Second Post-Study Work stream), or a Skilled - Recognised Graduate (subclass 476) visa. Australian Government - Department of Home Affairs Immigration and citizenship Have studied with an Australian education provider in a designated regional area Lived in a designated regional area Existing provisions which enable a secondary holder of a Temporary Graduate visa to apply as a primary applicant remain. You must have obtained\n\nThis visa is for Temporary Graduates holding a Post-Higher Education Work, Post-Study Work or Replacement visa with a degree from an Australian institution located in a regional area. It allows you to live, work and study in Australia temporarily. Temporary Graduate visa (subclass 485) Second Post-Higher Education Work stream When you have this visa Now you have your visa Now that you have your Temporary Graduate (subclass 485) Second Post-Higher Education Work visa, you may want to consider withdrawing",
+    "correct": false,
+    "source_hit": true
+  },
+  {
+    "id": "B3",
+    "type": "answerable",
+    "persona": "485",
+    "question": "Do I need to have held a student visa recently to apply?",
+    "answer": "According to the context, you must be in Australia and hold an eligible Student visa (not one supported by the Minister for Defence or the Minister) to apply for a Temporary Graduate visa in the Post-Higher Education Work stream.",
+    "sources": [
+      "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream7.pdf",
+      "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream6.pdf",
+      "Temporary Graduate visa (subclass 485) Second Post-Higher Education Work stream12.pdf"
+    ],
+    "similarity": 0.767,
+    "abstained": false,
+    "leaked": false,
+    "context": "application\u2019 on Meeting the Temporary Graduate visa study requirement (/visas/getting-a-visa/visa- listing/temporary-graduate-485/meeting-the-temporary-graduate-visa-subclass-485-study-requirement). English language requirement documents To prove your English level meets the requirements, show us evidence that you are a citizen of and hold The United Kingdom The United States of America Canada New Zealand The Republic of Ireland. In the 12 months immediately before the day you apply for your visa,\n\n(/visas/getting-a-visa/visa-listing/temporary-graduate-485/meeting-the-temporary-graduate-visa-subclass-485-study- requirement), or hold a Hong Kong or British National Overseas passport. You must be in Australia (but not in immigration clearance) when you apply for this visa. Subsequent entrants can be in or outside Australia when they apply. We will process your visa application if: you are in Australia and hold an eligible Student visa (not one supported by the Minister for Defence or the Minister\n\na Temporary Graduate visa in the Post-Higher Education Work, Post-Study Work, or Replacement stream. You must be in Australia to apply for this visa. Make sure you have a passport You need a valid passport for this visa. If you plan to get a new passport, do so before applying for your visa. Check your visa conditions If you have a 'No further stay' condition 8534 or 8503 on your current visa, you can\u2019t apply for this visa online. Submit an ImmiAccount technical support form (/help-support/departmental-forms/online-",
+    "correct": false,
+    "source_hit": true
+  },
+  {
+    "id": "B4",
+    "type": "answerable",
+    "persona": "485",
+    "question": "Does my qualification need to be from a CRICOS-registered course?",
+    "answer": "Yes, your qualification must be from a CRICOS-registered course. According to the context, each qualification you have completed and are relying on to meet the requirement must be from a CRICOS-registered course.",
+    "sources": [
+      "485 study requirement detail page.txt",
+      "Temporary Graduate visa (subclass 485).txt",
+      "Temporary Graduate visa (subclass 485) Second Post-Higher Education Work stream9.pdf"
+    ],
+    "similarity": 0.808,
+    "abstained": false,
+    "leaked": false,
+    "context": "while you held a visa authorising you to study. Your course, or courses, resulting in the award of an eligible degree, diploma or trade qualification, must have instruction completed in English and be registered on the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS). Course requirements Each qualification you have completed and are relying on to meet this requirement must: be either a bachelor's degree or higher, a diploma, an advanced diploma, or a trade qualification\n\nBasic eligibility You must: be aged 35 years or under when you apply (exceptions apply) hold an eligible visa have held a Student visa in the last 6 months have a recent qualification in a CRICOS-registered course apply for your eligible stream (it is not possible to change streams after you apply) attach required evidence when you apply. Post-Vocational Education Work stream This visa is for international students who have recently graduated with qualifications that are relevant to specific occupations\n\nwhen you apply for this visa hold a Temporary Graduate visa in the Post-Higher Education Work, Post-Study Work, or the Replacement stream and have held a Temporary Graduate visa in the Post-Higher Education Work or Post-Study Work stream, as the main applicant have a degree in a CRICOS registered course (http://cricos.education.gov.au/) from an education institution based in an eligible designated regional area, that led to the grant of your first Temporary Graduate visa in the Post- Higher Education",
+    "correct": true,
+    "source_hit": true
+  },
+  {
+    "id": "B5",
+    "type": "answerable",
+    "persona": "485",
+    "question": "Can I change streams after I apply?",
+    "answer": "I don't know. The context does not mention the possibility of changing streams after applying.",
+    "sources": [
+      "Temporary Graduate visa (subclass 485).txt",
+      "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream7.pdf"
+    ],
+    "similarity": 0.596,
+    "abstained": true,
+    "leaked": false,
+    "context": "that you graduated from that led to the grant of your first Temporary Graduate visa the regional area that you live in as the holder of your Temporary Graduate visa in the Post-Higher Education Work, Post-Study Work or Replacement stream. Which stream should I apply for? The qualification you use to meet the Temporary Graduate visa study requirement determines the stream you can apply for. If you hold an associate degree, diploma or trade qualification, you should apply for the Post-Vocational Education\n\nWork stream. The qualification you use must be closely related to your nominated occupation on the Medium and Long-term Strategic Skills List (MLTSSL). If your qualification is degree level or higher, you should apply for the Post-Higher Education Work stream.\n\nall applicants. If you have a technical problem with your ImmiAccount (/help-support/applying-online-or-on-paper/online) or online application see how to resolve error messages when submitting online (/help- support/applying-online-or-on-paper/online/common-issues-and-error-messages) Step 4 After you apply We will let you know when we have received your application and documents. See what you can and must do after you apply. Status updates We cannot give status updates while your application is within",
+    "correct": false,
+    "source_hit": true
+  },
+  {
+    "id": "X1",
+    "type": "cross_persona",
+    "persona": "500",
+    "question": "What are the different streams for the Temporary Graduate visa?",
+    "answer": "According to the context, if you hold or held a Student visa and completed specific qualifications in Australia in the last six months, you might be eligible for a Temporary Graduate visa, but it does not specify the different streams for this visa.",
+    "sources": [
+      "Department of Home Affairs subclass 500 official page.txt",
+      "Student visa (subclass 500).txt"
+    ],
+    "similarity": 0.699,
+    "abstained": false,
+    "leaked": false,
+    "context": "Graduate visa (subclass 485). If you want to stay longer for other reasons, you must apply for a new visa that suits your circumstances. Explore your visa options. Cost The visa costs from AUD2,500.00 for the main applicant (concessions apply in limited circumstances). There is also a charge for each family member who applies for the visa. You might also have to pay other costs for: health checks police certificates biometrics. To work out what your visa will cost, use the Visa Pricing Estimator.\n\ngenerally only be granted a Student visa for a maximum period of 3 years. Stay longer To continue studying in Australia, you must apply for a new Student visa. If your Student visa will expire before your graduation you might be eligible for a Visitor visa (subclass 600). You will need a letter from your education provider with the date of your graduation. If you hold or held a Student visa and completed specific qualifications in Australia in the last six months, you might be eligible for a Temporary\n\nvisas, including Visitor, Temporary Graduate, and Maritime Crew visas, cannot apply for Student visas while in Australia. Students already in Australia on a Student visa can apply for an additional Student visa to complete further study."
+  },
+  {
+    "id": "X2",
+    "type": "cross_persona",
+    "persona": "500",
+    "question": "What is the age limit to apply for the Temporary Graduate visa?",
+    "answer": "I don't know.",
+    "sources": [
+      "Department of Home Affairs subclass 500 official page.txt",
+      "Genuine Student requirement.pdf",
+      "Student visa (subclass 500).txt"
+    ],
+    "similarity": 0.748,
+    "abstained": true,
+    "leaked": false,
+    "context": "generally only be granted a Student visa for a maximum period of 3 years. Stay longer To continue studying in Australia, you must apply for a new Student visa. If your Student visa will expire before your graduation you might be eligible for a Visitor visa (subclass 600). You will need a letter from your education provider with the date of your graduation. If you hold or held a Student visa and completed specific qualifications in Australia in the last six months, you might be eligible for a Temporary\n\nGenuine Student requirement The Genuine Student (GS) requirement applies to student visa applications lodged on or after 23 March 2024. We will assess applications lodged before this date under the Genuine Temporary Entrant (GTE) requirement. All applicants for a student visa must: be a genuine applicant for entry and stay as a student be able to demonstrate an understanding that studying in Australia is the primary reason for applying for a student visa. The GS requirement recognises that genuine\n\nvisas, including Visitor, Temporary Graduate, and Maritime Crew visas, cannot apply for Student visas while in Australia. Students already in Australia on a Student visa can apply for an additional Student visa to complete further study."
+  },
+  {
+    "id": "X3",
+    "type": "cross_persona",
+    "persona": "485",
+    "question": "How many hours can a student work per fortnight while their course is in session?",
+    "answer": "I don't know. The context does not mention work hours.",
+    "sources": [
+      "485 study requirement detail page.txt"
+    ],
+    "similarity": 0.615,
+    "abstained": true,
+    "leaked": false,
+    "context": "your course (or courses), bringing the total to at least 92 weeks. Overlap of qualifications You can undertake overlapping qualifications. Where qualifications overlap, you cannot count the period of study more than once. If you complete more than one qualification but use only the most recent qualification to meet the Temporary Graduate visa study requirement, any credit you receive in the most recent qualification from the previous qualification counts towards meeting the study requirement. The\n\nmatch the requirements of your nominated occupation, as set by the relevant assessing authority. The 2 academic years study requirement Two academic years of study equals 92 weeks that contribute towards one or more acceptable qualification. What is meant by 2 academic years study Two academic years study, or 92 weeks of registered study, is based on the duration of the course as registered by CRICOS. You can take longer to complete your course, but you will only be credited with the number of weeks\n\nsemester 1 - outside Australia semester 2 - in Australia semester 3 - in Australia semester 4 - in Australia semester 5 - outside Australia semester 6 - in Australia. The pattern of study does not matter provided the Temporary Graduate visa study requirement is met. You must complete at least 16 months of study while you are physically present in Australia. You will not have met the Temporary Graduate visa study requirements if you: studied solely at an overseas campus of an Australian educational"
+  },
+  {
+    "id": "O1",
+    "type": "out_of_scope",
+    "persona": "500",
+    "question": "What's the capital of France?",
+    "answer": "I don't know \u2014 this isn't covered in the knowledge base.",
+    "sources": [],
+    "similarity": 0.454,
+    "abstained": true,
+    "leaked": false,
+    "context": "education and training institutions, schools and colleges of your choice. \ue5c8 Locations in Australia Discover Australia's cities, towns and regions, and find the study destination that's right for you. \ue5c8 Quick links Why Australia Visa and travel advice Living costs Australian study locations Agent Hub Useful tools Career Matcher Speaking English practice test Cost of living calculator Find a course \ue8b6 Follow Us Subscribe to our newsletter Accommodation Explore accommodation options for international\n\nState and Territory Government resources to support international students International education engagement Data and research Financial assistance for international students Recognise overseas qualifications Resources for education providers in supporting students \uf056 \uf055 Was this page helpful? Yes No Share this page on \uf39e \uf0e1 \ue61b \u2709 Last modified on Monday 22 December 2025 [11057|110146] Acknowledgement of Country The Department of Education acknowledges the Traditional Owners and Custodians of Country throughout\n\nor country of residence This includes: the nature of the applicant\u2019s personal ties e.g. family, community and employment. They must give reasons for not studying in their home country if a similar course is available. Economic circumstances in home country or country of residence This includes: documents showing employment or business activities for 12 months before lodging an application potential employment offers including salary and other benefits, after course completion income tax return or"
+  },
+  {
+    "id": "O2",
+    "type": "out_of_scope",
+    "persona": "500",
+    "question": "Can I bring my pet dog to Australia on a student visa?",
+    "answer": "I don't know. The context does not mention anything about bringing pets into Australia on a student visa.",
+    "sources": [
+      "Student visa (subclass 500).txt",
+      "Department of Home Affairs subclass 500 official page.txt"
+    ],
+    "similarity": 0.759,
+    "abstained": true,
+    "leaked": false,
+    "context": "visas, including Visitor, Temporary Graduate, and Maritime Crew visas, cannot apply for Student visas while in Australia. Students already in Australia on a Student visa can apply for an additional Student visa to complete further study.\n\ngenerally only be granted a Student visa for a maximum period of 3 years. Stay longer To continue studying in Australia, you must apply for a new Student visa. If your Student visa will expire before your graduation you might be eligible for a Visitor visa (subclass 600). You will need a letter from your education provider with the date of your graduation. If you hold or held a Student visa and completed specific qualifications in Australia in the last six months, you might be eligible for a Temporary\n\nYou will need to enrol in a course at an Australian education or training provider first and then apply for a student visa after you have been issued a confirmation of enrolment (CoE) from the provider. For more information on applying for courses, visit the how to apply to study page. Fees and processing time From 1 July 2026, student visa fees are from AUD$2,500 per visa application* unless you are exempt. Australian Student visa processing times vary from person to person. Visa processing times"
+  },
+  {
+    "id": "O3",
+    "type": "out_of_scope",
+    "persona": "485",
+    "question": "What is the best pizza place in Melbourne?",
+    "answer": "I don't know \u2014 this isn't covered in the knowledge base.",
+    "sources": [],
+    "similarity": 0.51,
+    "abstained": true,
+    "leaked": false,
+    "context": "\ue895\n\n(Non-Regional) N/A Not eligible Category 2 \u2013 Designated city or major regional centre Category 1 \u2013 Major cities: Sydney, Brisbane, Melbourne (Non-Regional) Not eligible Category 2 \u2013 Designated city or major regional centre Category 2 \u2013 Designated city or major regional centre 1 extra year Work and study in designated regional area Have adequate health insurance Residence location on Temporary Graduate visa in the Post-Higher Education Work or Replacement stream Study location on Student visa Visa\n\n3 - Regional centre or other regional area: (All other locations) Category 3 - Regional centre or other regional area: (All other locations) 2 extra years Category 2 \u2013 Designated city or major regional centre postcodes in Tasmania Category 2 \u2013 Designated city or major regional centre postcodes from Tasmania 2 extra years Category 2 \u2013 Designated city or major regional centre postcodes in Tasmania Category 3 \u2013 Regional centre or other regional area postcodes from Tasmania 2 extra years Category 3 \u2013"
+  }
+]
